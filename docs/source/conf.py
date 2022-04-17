@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'solve'
+project = 'solve.asynx.dev'
 copyright = '2022, asynx.dev Contributors'
 author = 'asynx.dev'
 

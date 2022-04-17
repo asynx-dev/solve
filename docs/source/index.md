@@ -1,3 +1,3 @@
-# asynx.dev Solution Hub
+# Home
 
-Welcome!
+Welcome to asynx.dev Solution Hub!
