@@ -1,2 +1,3 @@
-# solve
-solve.asynx.dev
+# solve: asynx.dev Solution Hub
+
+<https://solve.asynx.dev>
